@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ProgrammingLuis/Kernel-Mode-Driver">
-    <img src="logos/logo.jpeg" alt="Logo" width="252" height="252">
+    <img src="logos/logo.jpeg" alt="Logo" width="300" height="252">
   </a>
 
   <h3 align="center">Kernel Mode Driver (Windows 10)</h3>
