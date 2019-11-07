@@ -95,7 +95,7 @@ Distributed under the GNU License. See `LICENSE` for more information.
 
 Luis Hernandez - hluis@umich.edu
 
-Project Link: [https://https://github.com/ProgrammingLuis/Intel8080](https://https://github.com/ProgrammingLuis/Intel8080)
+Project Link: [https://https://github.com/ProgrammingLuis/Kernel-Mode-Driver](https://https://github.com/ProgrammingLuis/Intel8080)
 
 
 
